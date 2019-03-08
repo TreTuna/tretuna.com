@@ -27,7 +27,7 @@ A starter project in [Gatsby.js](https://www.gatsbyjs.org/) with
   [Katerina Limpitsouni](https://twitter.com/ninalimpi) from
   [undraw.co](https://undraw.co/)
 
-## [➞ Demo](https://egghead-gatsby-starter.netlify.com/)
+## [Demo](https://egghead-gatsby-starter.netlify.com/)
 
 ## Setup
 
