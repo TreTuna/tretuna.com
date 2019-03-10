@@ -35,7 +35,7 @@ const Hero = () => (
           max-width: ${rhythm(15)};
         `}
       >
-        The home of the Funky Fish, Tré Tuna
+        Tre Tuna
       </h1>
     </Container>
     <div
